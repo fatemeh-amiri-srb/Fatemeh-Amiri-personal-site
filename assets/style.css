@@ -1,4 +1,12 @@
+body{
+    color: #033170;
+}
+
 .header{
     background-color:#033170;
 
+}
+.about-me{
+    border: #033170 solid 1px;
+    border-radius: 6px;
 }
